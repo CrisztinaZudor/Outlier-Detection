@@ -8,7 +8,7 @@ Ouliers can be defined as:<br>
 * Noise points lying outside a set of defined clusters<br>
 * Surprising veridical data<br>
 <br>
-https://github.com/CrisztinaZudor/Outlier-Detection/issues/1#issue-2958556205
+![Image](https://github.com/user-attachments/assets/2aa83800-0f85-478c-a026-39b57fd733e0)
 <br>
 
 
