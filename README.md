@@ -16,24 +16,19 @@ that collectively deviate from the established normal behavior patterns.<br>
 
 ![Image](https://github.com/user-attachments/assets/2aa83800-0f85-478c-a026-39b57fd733e0)
 
-<br>
-The project consists of two analyses. The first analysis focuses on the variables "ash" and "malic acid," which exhibit a simpler, clustered distribution, demonstrating the algorithm's effectiveness in identifying outliers in structured data. The second analysis examines the variables "flavanoids" and "color intensity," characterized by a banana-shaped, non-linear distribution, testing the algorithms' ability to handle complex patterns.<br>
-
+## Project Analyses
+The project is divided into two analyses:<br>
+* The first focuses on "ash" and "malic acid" variables, demonstrating the algorithm's effectiveness with a simpler, clustered distribution.<br>
+* The second deals with "flavanoids" and "color intensity", testing the algorithm's capability in handling complex, banana-shaped distributions.<br>
 
 ## How to Run the Code
-
 ### Running the Code in Google Colab
-
 You can easily run the code in Google Colab with the following steps:
-
 1. **Open in Colab**: Navigate to the `OutlierDetection.ipynb` notebook in this repository. You will find an "Open in Colab" button at the top of the notebook. Click this button to open the notebook directly in Google Colab.
-
 2. **Running the Notebook**: Once the notebook is open in Google Colab, you can execute the code:
     - Run all cells in sequence by clicking on `Runtime` in the menu bar, then selecting `Run all`.
     - Alternatively, run each cell individually by clicking the play button on the left side of each code cell.
-
 ### Running Locally
-
 If you prefer to run the notebook locally:
 1. **Download the Notebook**: Click on `OutlierDetection.ipynb` in the GitHub repository and download it by clicking on `Raw`, then right-clicking and choosing "Save as" to download the file to your local machine.
 2. **Upload to Colab**: Go to [Google Colab](https://colab.research.google.com/), and select `Upload notebook` from the `File` menu to upload the downloaded `.ipynb` file.
