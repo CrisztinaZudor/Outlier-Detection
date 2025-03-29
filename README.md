@@ -3,7 +3,7 @@
 Outlier detection is essential for identifying anomalies in datasets, ensuring data quality, and enabling actionable insights. <br>
 This project evaluates three key methods: Empirical Covariance, Robust Covariance (MCD), and One-Class Support Vector Machine (OCSVM), using the Wine dataset. <br>
 <br>
-Ouliers can be defined as: <br>
+### Ouliers can be defined as: <br>
 * Observations that deviate significantly from the expected patterns or distributions within a dataset <br>
 * Noise points lying outside a set of defined clusters <br>
 * Surprising veridical data <br>
@@ -38,5 +38,3 @@ If you prefer to run the notebook locally:
 1. **Download the Notebook**: Click on `OutlierDetection.ipynb` in the GitHub repository and download it by clicking on `Raw`, then right-clicking and choosing "Save as" to download the file to your local machine.
 2. **Upload to Colab**: Go to [Google Colab](https://colab.research.google.com/), and select `Upload notebook` from the `File` menu to upload the downloaded `.ipynb` file.
 3. **Run the Notebook**: Follow the same steps as above to run the notebook cells sequentially or individually.
-
-
