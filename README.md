@@ -33,10 +33,7 @@ If you prefer to run the notebook locally:
 ## Project Analyses
 The project is divided into two analyses:<br>
 * The first focuses on "ash" and "malic acid" variables, demonstrating the algorithm's effectiveness with a simpler, clustered distribution.<br>
-![Fig2a](https://github.com/user-attachments/assets/2b4f40e3-63c8-4175-9288-df50d264a7c7)
 * The second deals with "flavanoids" and "color intensity", testing the algorithm's capability in handling complex, banana-shaped distributions.<br>
-![Fig2b](https://github.com/user-attachments/assets/54d52d51-877c-4575-a6ce-3b88af244625)
-
 
 ## Results
 Empirical covariance provides a foundational approach but is sensitive to outliers. Robust covariance (MCD) offers greater resilience by focusing on core data clusters, while One-Class SVM excels in handling complex, non-linear patterns.<br>
