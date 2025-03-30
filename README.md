@@ -1,8 +1,8 @@
 # Outlier-Detection
 
-Outlier detection is essential for identifying anomalies in datasets, ensuring data quality, and enabling actionable insights. <br>
+Outlier detection is essential for identifying anomalies in datasets, ensuring data quality, and enabling actionable insights.
 This project evaluates three key methods: Empirical Covariance, Robust Covariance (MCD), and One-Class Support Vector Machine (OCSVM), using the Wine dataset. <br>
-<br>
+
 ## Definitions of Outliers
 Ouliers can be defined as:<br>
 * Observations that deviate significantly from the expected patterns or distributions within a dataset <br>
