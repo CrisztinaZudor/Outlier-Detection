@@ -13,7 +13,7 @@ In the image bellow, the dataset contains two distinct regions of normal behavio
 N2, where the majority of observations are concentrated. Observations that markedly deviate from these normative clusters can be classified as outliers. This is exemplified by 
 points O1 and O2, which are isolated data points situated at considerable distances from
 the normal regions. Additionally, the region O3 represents a cluster of outliers, demonstrating that anomalous observations may occur either as individual points or as groups 
-that collectively deviate from the established normal behavior patterns.<br>
+that collectively deviate from the established normal behavior patterns.
 ![Image](https://github.com/user-attachments/assets/2aa83800-0f85-478c-a026-39b57fd733e0)
 ## How to Run the Code
 ### Running the Code in Google Colab
