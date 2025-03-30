@@ -17,11 +17,6 @@ that collectively deviate from the established normal behavior patterns.<br>
 
 ![Image](https://github.com/user-attachments/assets/2aa83800-0f85-478c-a026-39b57fd733e0)
 
-## Project Analyses
-The project is divided into two analyses:<br>
-* The first focuses on "ash" and "malic acid" variables, demonstrating the algorithm's effectiveness with a simpler, clustered distribution.<br>
-* The second deals with "flavanoids" and "color intensity", testing the algorithm's capability in handling complex, banana-shaped distributions.<br>
-
 ## How to Run the Code
 ### Running the Code in Google Colab
 You can easily run the code in Google Colab with the following steps:
@@ -34,3 +29,11 @@ If you prefer to run the notebook locally:
 1. **Download the Notebook**: Click on `OutlierDetection.ipynb` in the GitHub repository and download it by clicking on `Raw`, then right-clicking and choosing "Save as" to download the file to your local machine.
 2. **Upload to Colab**: Go to [Google Colab](https://colab.research.google.com/), and select `Upload notebook` from the `File` menu to upload the downloaded `.ipynb` file.
 3. **Run the Notebook**: Follow the same steps as above to run the notebook cells sequentially or individually.
+
+## Project Analyses
+The project is divided into two analyses:<br>
+* The first focuses on "ash" and "malic acid" variables, demonstrating the algorithm's effectiveness with a simpler, clustered distribution.<br>
+* The second deals with "flavanoids" and "color intensity", testing the algorithm's capability in handling complex, banana-shaped distributions.<br>
+
+## Results
+Empirical covariance provides a foundational approach but is sensitive to outliers. Robust covariance (MCD) offers greater resilience by focusing on core data clusters, while One-Class SVM excels in handling complex, non-linear patterns.<br>
